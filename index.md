@@ -3,4 +3,4 @@
 ## Code 201 Reading Notes
 
 ### Navigation
-[Day One] (class-01.md)
+<a href="class-01.md">Class 01</a>
