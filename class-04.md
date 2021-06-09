@@ -1,8 +1,8 @@
 # Class 4 Notes
 
-##CSS Layout
+## CSS Layout
   ## Positioning Elements
-   -CSS allows you to use different positioning's in order to control the layout of webpages. These positions include: 
+   - CSS allows you to use different positioning's in order to control the layout of webpages. These positions include: 
     - Normal Flow
       - For block level elements, they will appear on a new line. No elements will appear side by side. 
     - Relative Positioning
