@@ -1,4 +1,5 @@
 # Class 4 Notes
+Notes taken from John Duckets HTML/CSS & Javascript/Jquery
 
 ## CSS Layout
   ## Positioning Elements
