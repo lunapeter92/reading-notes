@@ -8,4 +8,6 @@
 [Day Three](class-03.md)<br>
 [Day Four](class-04.md)<br>
 [Day Five](class-05.md)<br>
-[Day Six](class-06.md)
+[Day Six](class-06.md)<br>
+[Day Seven](class-07.md)<br>
+[Day Eight](class-08.md)<br>
