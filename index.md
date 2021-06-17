@@ -12,3 +12,4 @@
 [Day Seven](class-07.md)<br>
 [Day Eight](class-08.md)<br>
 [Day Nine](class-09.md)<br>
+[Day Ten](class-10.md)<br>
