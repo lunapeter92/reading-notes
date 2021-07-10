@@ -18,3 +18,7 @@
 [Day Thirteen](class-13.md)<br>
 [Day Fourteen](class-14.md)<br>
 [Day Fifteen](class-15.md)<br>
+
+
+## Code 301 Reading Notes
+[301 Class One](301-class-01.md)<br>
