@@ -1,0 +1,23 @@
+# Class 10
+Notes Taken from:
+https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
+https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c
+
+## Javascript call stack
+  - Call Stack: 
+    - The call stack is a data structure for explaining the 'function heirarchy and the execurtion order' when the code is run.
+    - Based on the LIFO principle, (last in, first out). 
+  -Stack Overflow: 
+    - Stack overflow is created when there is a function that has no way of stopping/exiting. 
+    -There is a point where the browser will reach the maximum amount of memory allowed and will throw an error for the overflow. 
+    
+    
+ ## Javascript Errors:
+  - Reference Errors:
+    - Could be something as simple as trying to use a variable that hasn't been declared. 
+    
+  - Syntax Erros: 
+    - When you have an issues with the syntax that javascript can't parse. Could be as simple as a missing comma.
+    
+  - Type Errors:   
+     - Indicates that the types you're trying to use, such as string or number are not compatible. 
